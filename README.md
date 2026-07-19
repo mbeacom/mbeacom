@@ -61,20 +61,56 @@
   <a href="https://github.com/mbeacom/openleague">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=openleague&theme=tokyonight&hide_border=true" alt="openleague" />
   </a>
-  <a href="https://github.com/mbeacom/genai-processors-pydantic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=genai-processors-pydantic&theme=tokyonight&hide_border=true" alt="genai-processors-pydantic" />
+  <a href="https://github.com/mbeacom/context-kit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=context-kit&theme=tokyonight&hide_border=true" alt="context-kit" />
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/mbeacom/genai-processors-pydantic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=genai-processors-pydantic&theme=tokyonight&hide_border=true" alt="genai-processors-pydantic" />
+  </a>
   <a href="https://github.com/mbeacom/genai-processors-url-fetch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=genai-processors-url-fetch&theme=tokyonight&hide_border=true" alt="genai-processors-url-fetch" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/mbeacom/python-template">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=python-template&theme=tokyonight&hide_border=true" alt="python-template" />
   </a>
+  <a href="https://github.com/mbeacom/adrkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=adrkit&theme=tokyonight&hide_border=true" alt="adrkit" />
+  </a>
 </p>
 
-> ➕ More on my [repositories page](https://github.com/mbeacom?tab=repositories) — including [`adrkit`](https://github.com/mbeacom/adrkit) (machine-readable ADRs) and [`eks-cluster-upgrade`](https://github.com/mbeacom/eks-cluster-upgrade) (automated Amazon EKS upgrades).
+> ➕ More on my [repositories page](https://github.com/mbeacom?tab=repositories) — including [`eks-cluster-upgrade`](https://github.com/mbeacom/eks-cluster-upgrade) (automated Amazon EKS upgrades).
+
+---
+
+## 🌍 Open Source & Contributions
+
+Projects I've helped maintain or contributed to over the years:
+
+<p align="center">
+  <a href="https://github.com/locustio/locust">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=locustio&repo=locust&theme=tokyonight&hide_border=true" alt="locustio/locust" />
+  </a>
+  <a href="https://github.com/Zulko/moviepy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulko&repo=moviepy&theme=tokyonight&hide_border=true" alt="Zulko/moviepy" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gitcoinco/web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitcoinco&repo=web&theme=tokyonight&hide_border=true" alt="gitcoinco/web" />
+  </a>
+  <a href="https://github.com/awslabs/aws-config-rdk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awslabs&repo=aws-config-rdk&theme=tokyonight&hide_border=true" alt="awslabs/aws-config-rdk" />
+  </a>
+</p>
+
+- 🦗 [**locustio/locust**](https://github.com/locustio/locust) — maintainer of the scalable, Python-based load testing framework.
+- 🎬 [**Zulko/moviepy**](https://github.com/Zulko/moviepy) — contributor to the Python video editing library.
+- 🌱 [**gitcoinco/web**](https://github.com/gitcoinco/web) — contributor to the platform for growing and funding open source.
+- ☁️ [**awslabs/aws-config-rdk**](https://github.com/awslabs/aws-config-rdk) — contributor to the AWS Config Rules Development Kit.
 
 ---
 
