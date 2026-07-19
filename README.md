@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=DevOps+%26+cloud+engineer+%40+Microsoft;Automating+all+the+things;AI+%2F+GenAI+tinkerer;Data+enthusiast+%26+amateur+mycologist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Cloud+Solution+Architect+%40+Microsoft;Cloud+%26+AI+Platforms+for+FSI+Banking;Azure%3A+AI%2C+data%2C+apps+%26+infrastructure;Driving+innovation+at+enterprise+scale" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I work on **DevOps, cloud, and platform engineering** at [**@microsoft**](https://github.com/microsoft).
-- 🌱 Lately I'm building around **AI / GenAI** — including [Gemini `genai-processors`](https://github.com/google-gemini/genai-processors) extensions.
+- 🔭 I'm a **Senior Cloud Solution Architect (Enterprise)** at [**@microsoft**](https://github.com/microsoft), covering **Cloud & AI Platforms** for **FSI / Banking**.
+- ☁️ Day to day I architect across **AI, cloud, infrastructure, data, apps, and innovation** — primarily on **Azure**.
 - ⚙️ I care about **automation, infrastructure-as-code, developer experience,** and machine-readable engineering artifacts.
 - 📝 I write about cloud & engineering things at **[markbeacom.com](https://markbeacom.com)**.
 - 📍 Based in **Ohio, USA**.
@@ -49,7 +49,8 @@
 
 **AI & Data**
 
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -66,14 +67,6 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mbeacom/genai-processors-pydantic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=genai-processors-pydantic&theme=tokyonight&hide_border=true" alt="genai-processors-pydantic" />
-  </a>
-  <a href="https://github.com/mbeacom/genai-processors-url-fetch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=genai-processors-url-fetch&theme=tokyonight&hide_border=true" alt="genai-processors-url-fetch" />
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/mbeacom/python-template">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=python-template&theme=tokyonight&hide_border=true" alt="python-template" />
   </a>
@@ -82,7 +75,7 @@
   </a>
 </p>
 
-> ➕ More on my [repositories page](https://github.com/mbeacom?tab=repositories) — including [`eks-cluster-upgrade`](https://github.com/mbeacom/eks-cluster-upgrade) (automated Amazon EKS upgrades).
+> ➕ More on my [repositories page](https://github.com/mbeacom?tab=repositories) — including [`eks-cluster-upgrade`](https://github.com/mbeacom/eks-cluster-upgrade) (automated Amazon EKS upgrades) and earlier experiments with Gemini `genai-processors` extensions ([`genai-processors-pydantic`](https://github.com/mbeacom/genai-processors-pydantic), [`genai-processors-url-fetch`](https://github.com/mbeacom/genai-processors-url-fetch)).
 
 ---
 
