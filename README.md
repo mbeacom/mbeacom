@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Cloud+Solution+Architect+%40+Microsoft;Cloud+%26+AI+Platforms+for+FSI+Banking;Azure%3A+AI%2C+data%2C+apps+%26+infrastructure;Driving+innovation+at+enterprise+scale" alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Cloud+Solution+Architect+%40+Microsoft;Cloud+%26+AI+Platforms+for+FSI+Banking;Azure%3A+AI%2C+data%2C+apps+%26+infrastructure;Driving+innovation+at+enterprise+scale" alt="Typing SVG" /></a>
 </p>
 
 ---
