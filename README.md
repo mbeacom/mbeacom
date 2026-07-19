@@ -58,61 +58,31 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mbeacom/openleague">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=openleague&theme=tokyonight&hide_border=true" alt="openleague" />
-  </a>
-  <a href="https://github.com/mbeacom/context-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=context-kit&theme=tokyonight&hide_border=true" alt="context-kit" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mbeacom/python-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=python-template&theme=tokyonight&hide_border=true" alt="python-template" />
-  </a>
-  <a href="https://github.com/mbeacom/adrkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbeacom&repo=adrkit&theme=tokyonight&hide_border=true" alt="adrkit" />
-  </a>
-</p>
+| Project | Tech &amp; Activity | Description |
+|:--|:--|:--|
+| **[openleague](https://github.com/mbeacom/openleague)** | ![lang](https://img.shields.io/github/languages/top/mbeacom/openleague?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/mbeacom/openleague?style=flat-square&labelColor=1f2937&color=2563eb) | A free platform for managing sports teams, leagues, and clubs |
+| **[context-kit](https://github.com/mbeacom/context-kit)** | ![lang](https://img.shields.io/github/languages/top/mbeacom/context-kit?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/mbeacom/context-kit?style=flat-square&labelColor=1f2937&color=2563eb) | Plugins, skills, and agents to streamline daily developer workflows |
+| **[python-template](https://github.com/mbeacom/python-template)** | ![lang](https://img.shields.io/github/languages/top/mbeacom/python-template?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/mbeacom/python-template?style=flat-square&labelColor=1f2937&color=2563eb) | An opinionated, batteries-included Python project template |
+| **[adrkit](https://github.com/mbeacom/adrkit)** | ![lang](https://img.shields.io/github/languages/top/mbeacom/adrkit?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/mbeacom/adrkit?style=flat-square&labelColor=1f2937&color=2563eb) | Machine-readable, Git-native architecture decision records |
 
 > ➕ More on my [repositories page](https://github.com/mbeacom?tab=repositories) — including [`eks-cluster-upgrade`](https://github.com/mbeacom/eks-cluster-upgrade) (automated Amazon EKS upgrades) and earlier experiments with Gemini `genai-processors` extensions ([`genai-processors-pydantic`](https://github.com/mbeacom/genai-processors-pydantic), [`genai-processors-url-fetch`](https://github.com/mbeacom/genai-processors-url-fetch)).
 
 ---
 
-## 🌍 Open Source & Contributions
+## 🌍 Open Source &amp; Contributions
 
 Projects I've helped maintain or contributed to over the years:
 
-<p align="center">
-  <a href="https://github.com/locustio/locust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=locustio&repo=locust&theme=tokyonight&hide_border=true" alt="locustio/locust" />
-  </a>
-  <a href="https://github.com/Zulko/moviepy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulko&repo=moviepy&theme=tokyonight&hide_border=true" alt="Zulko/moviepy" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/gitcoinco/web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitcoinco&repo=web&theme=tokyonight&hide_border=true" alt="gitcoinco/web" />
-  </a>
-  <a href="https://github.com/awslabs/aws-config-rdk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awslabs&repo=aws-config-rdk&theme=tokyonight&hide_border=true" alt="awslabs/aws-config-rdk" />
-  </a>
-</p>
-
-- 🦗 [**locustio/locust**](https://github.com/locustio/locust) — maintainer of the scalable, Python-based load testing framework.
-- 🎬 [**Zulko/moviepy**](https://github.com/Zulko/moviepy) — contributor to the Python video editing library.
-- 🌱 [**gitcoinco/web**](https://github.com/gitcoinco/web) — contributor to the platform for growing and funding open source.
-- ☁️ [**awslabs/aws-config-rdk**](https://github.com/awslabs/aws-config-rdk) — contributor to the AWS Config Rules Development Kit.
+| Project | Role | Tech &amp; Stars | Description |
+|:--|:--|:--|:--|
+| **[locustio/locust](https://github.com/locustio/locust)** | Maintainer | ![lang](https://img.shields.io/github/languages/top/locustio/locust?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/locustio/locust?style=flat-square&labelColor=1f2937&color=2563eb) | Write scalable load tests in plain Python |
+| **[Zulko/moviepy](https://github.com/Zulko/moviepy)** | Contributor | ![lang](https://img.shields.io/github/languages/top/Zulko/moviepy?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/Zulko/moviepy?style=flat-square&labelColor=1f2937&color=2563eb) | Video editing with Python |
+| **[gitcoinco/web](https://github.com/gitcoinco/web)** | Contributor | ![lang](https://img.shields.io/github/languages/top/gitcoinco/web?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/gitcoinco/web?style=flat-square&labelColor=1f2937&color=2563eb) | Grow and fund open source |
+| **[awslabs/aws-config-rdk](https://github.com/awslabs/aws-config-rdk)** | Contributor | ![lang](https://img.shields.io/github/languages/top/awslabs/aws-config-rdk?style=flat-square&labelColor=1f2937) ![stars](https://img.shields.io/github/stars/awslabs/aws-config-rdk?style=flat-square&labelColor=1f2937&color=2563eb) | The AWS Config Rules Development Kit (RDK) |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbeacom&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Mark's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbeacom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mbeacom&theme=tokyonight&hide_border=true" alt="GitHub streak" />
